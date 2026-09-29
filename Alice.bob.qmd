@@ -1,0 +1,14 @@
+---
+title: "A single quarto document"
+author: "Alice.bob"
+format: html
+editor: visual
+---
+
+```{r}
+library(here)
+
+here::i_am("alice.bob.saihou-lucas.Rproj")
+```
+## first section
+
