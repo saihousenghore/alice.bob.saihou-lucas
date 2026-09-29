@@ -10,4 +10,8 @@ library(here)
 here::i_am("alice.bob.saihou-lucas.Rproj")
 ```
 
+<<<<<<< HEAD
 ## First Section
+=======
+## First section
+>>>>>>> bd6c649e63927b82508e15503c3c8ec06c693952
