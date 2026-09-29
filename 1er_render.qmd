@@ -1,6 +1,6 @@
 ---
 title: "A single quarto document"
-author: "Bob and Alice"
+author: "Bob and Alice and Me"
 format: html
 editor: visual
 ---
